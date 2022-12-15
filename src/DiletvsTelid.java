@@ -6,7 +6,7 @@ import processing.core.PFont;
 
 public class DiletvsTelid extends PApplet{
     PlayerChar Telid  = new PlayerChar(50,25,25);
-    PlayerChar Dilet  = new PlayerChar(50,25,35);
+    PlayerChar Dilet  = new PlayerChar(50,25,25);
     boolean left1, right1, up1, down1, left2, right2, up2, down2, slap, kick,fr1,fl1;
     float player1X = 40;
     float player1Y = 40;
